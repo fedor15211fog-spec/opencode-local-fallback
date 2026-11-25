@@ -1,0 +1,22 @@
+{
+  "name": "opencode-local-fallback",
+  "version": "1.0.0",
+  "description": "OpenCode plugin: continue sessions on a local model when the cloud quota runs out, with a tool-call shim and a settings UI.",
+  "license": "MIT",
+  "private": false,
+  "keywords": [
+    "opencode",
+    "opencode-plugin",
+    "local-llm",
+    "lm-studio",
+    "ollama",
+    "qwen",
+    "tool-calls"
+  ],
+  "files": [
+    "plugins",
+    "README.md",
+    "LICENSE",
+    "opencode.example.json"
+  ]
+}
